@@ -16,4 +16,4 @@ At **Robusto-Labs**, we believe that **robustness** and **velocity** are the fou
 
 ### 🤝  Join Us
 
-Contribute, follow our projects, or contact us to collaborate on solutions whose matter.
+Contribute, follow our projects, or contact us to collaborate on solutions which matter.
